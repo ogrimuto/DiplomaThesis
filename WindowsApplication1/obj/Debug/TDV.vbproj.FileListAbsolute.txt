@@ -1,0 +1,105 @@
+D:\Models_2012\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Models_2012\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Models_2012\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Axis.resources
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormBase.resources
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormParameter.resources
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormStart.resources
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmPROP.resources
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MolDinamics.resources
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource.write.84.tlog
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource.write.447.tlog
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource.write.960.tlog
+D:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource.write.917.tlog
+H:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+H:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+H:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\Models_2012\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Models_2012\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Models_2012\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Axis.resources
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormBase.resources
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormParameter.resources
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormStart.resources
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmPROP.resources
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MolDinamics.resources
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource.write.447.tlog
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource.write.84.tlog
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource.write.917.tlog
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource.write.960.tlog
+F:\Models_2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Models_2012\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Models_2012\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Models_2012\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Models_2012\MolDin_prj\WindowsApplication1\bin\Debug\myUCLib.dll
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.Axis.resources
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.FormBase.resources
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.FormParameter.resources
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.FormStart.resources
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.frmPROP.resources
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.MolDinamics.resources
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\GenerateResource.write.447.tlog
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\GenerateResource.write.84.tlog
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\GenerateResource.write.917.tlog
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\GenerateResource.write.960.tlog
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\TDV.vbprojResolveAssemblyReference.cache
+D:\Models_2012\MolDin_prj\WindowsApplication1\obj\Debug\TDV.vbproj.GenerateResource.Cache
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\TDV.vbproj.AssemblyReference.cache
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.Axis.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.FormBase.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.FormParameter.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.FormStart.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.frmPROP.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.MolDinamics.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\TDV.vbproj.GenerateResource.cache
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\TDV.vbproj.CoreCompileInputs.cache
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\TDV.vbproj.CopyComplete
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\TDV.vbproj.AssemblyReference.cache
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.Axis.resources
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.FormBase.resources
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.FormParameter.resources
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.FormStart.resources
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.frmPROP.resources
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.MolDinamics.resources
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\TDV.vbproj.GenerateResource.cache
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\TDV.vbproj.CoreCompileInputs.cache
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\TDV.vbproj.CopyComplete
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ogrim\OneDrive\Projects\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

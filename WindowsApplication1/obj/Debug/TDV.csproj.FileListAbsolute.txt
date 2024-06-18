@@ -1,0 +1,17 @@
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\TDV.csproj.AssemblyReference.cache
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.Axis.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.FormBase.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.FormParameter.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.FormStart.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.frmPROP.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.MolDinamics.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\TDV.csproj.GenerateResource.cache
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\TDV.csproj.CoreCompileInputs.cache
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\TDV.csproj.CopyComplete
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+O:\OneDrive\Университет\3 курс\6 семестр\Курсовая работа по специализации (реферативного характера)\MolDin_prj\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
